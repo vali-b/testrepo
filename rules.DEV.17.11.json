@@ -1,0 +1,428 @@
+{
+  "click": {
+    "optIn": "button#onetrust-accept-btn-handler",
+    "presence": "div#onetrust-consent-sdk"
+  },
+  "domain": "fiverr.com",
+  "cookies": {
+    "optIn": [
+      {
+        "name": "_tt_enable_cookie",
+        "value": "1"
+      }
+    ]
+  },
+  "id": "44295704-775a-407d-858f-02c9a611ae54"
+},
+{
+    "click": {
+      "optIn": "button.TCF2Popup__continueWithoutAccepting___1fMWW",
+      "presence": "div.TCF2Popup__container___1TN_W"
+    },
+    "domain": "dailymotion.com",
+    "cookies": {},
+    "id": "e5d31bce-4a62-4c6d-a40f-94fda7c41c9d"
+  },
+  {
+    "click": {
+      "optIn": "div#accept-choices",
+      "presence": "div.sn-inner"
+    },
+    "domain": "w3schools.com",
+    "cookies": {},
+    "id": "230b6c9b-c717-4a88-9d64-9a892091d53d"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "npr.org",
+    "cookies": {},
+    "id": "0f5878b9-ed90-4723-bdc9-5b4475ac1d8a"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "slack.com",
+    "cookies": {},
+    "id": "a6e6d7df-c694-4add-83c4-39108afe2257"
+  },
+  {
+    "click": {
+      "optIn": "button#truste-consent-button",
+      "optOut": "button#truste-consent-required",
+      "presence": "div#truste-consent-track"
+    },
+    "domain": "nginx.com",
+    "cookies": {},
+    "id": "aaace84f-069e-4713-85f0-7a2f419c34eb"
+  },
+  {
+    "click": {
+      "optOut": "a.n-messaging-banner__button",
+      "presence": "div.consent-container"
+    },
+    "domain": "indiatimes.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "optout",
+          "value": "0"
+        }
+      ],
+      "optOut": [
+        {
+          "name": "optout",
+          "value": "1"
+        }
+      ]
+    },
+    "id": "e991cb20-0597-4f14-aabc-214a2e493f90"
+  },
+  {
+    "click": {
+      "optIn": "button#_evidon-accept-button",
+      "optOut": "button#_evidon-decline-button",
+      "presence": "div#_evidon_banner"
+    },
+    "domain": "eventbrite.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "_tt_enable_cookie",
+          "value": "1"
+        }
+      ],
+      "optOut": []
+    },
+    "id": "25d7b523-6e33-414a-a1e8-b9f27c7e8a37"
+  },
+  {
+    "click": {
+      "optIn": "button.MGGI9",
+      "presence": "div._3V2rG"
+    },
+    "domain": "deviantart.com",
+    "cookies": {},
+    "id": "489a59fb-1054-4d7a-ae1f-c6c561d2cd81"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "surveymonkey.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "_hjFirstSeen",
+          "value": "1"
+        }
+      ]
+    },
+    "id": "8ec1d9ff-ef4e-414b-b1f1-036ae31767ea"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "binance.com",
+    "cookies": {},
+    "id": "ae517a88-4184-4e18-b49a-244666b210fd"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "linktr.ee",
+    "cookies": {},
+    "id": "46c8d229-5baa-4ced-93ab-bb40ebd36e2f"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "time.com",
+    "cookies": {},
+    "id": "7b9e78a2-e273-4bf9-84d8-39284da294d6"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "teamviewer.com",
+    "cookies": {},
+    "id": "5e3c1162-1b36-4345-8bc8-c87c025493bc"
+  },
+  {
+    "click": {
+      "optIn": "a#okck",
+      "presence": "div#toast-container"
+    },
+    "domain": "ilovepdf.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "ck",
+          "value": "4"
+        }
+      ],
+      "optOut": [
+        {
+          "name": "ck",
+          "value": "0"
+        }
+      ]
+    },
+    "id": "137eec59-6b48-413c-bb45-33420aabdc87"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "cisco.com",
+    "cookies": {},
+    "id": "71dabe43-8443-4b78-a4c3-090b24d3b779"
+  },
+  {
+    "click": {
+      "optIn": "a#CybotCookiebotDialogBodyButtonAccept",
+      "presence": "div#CybotCookiebotDialog"
+    },
+    "domain": "themeforest.net",
+    "cookies": {},
+    "id": "f9b5b6d8-50be-486e-bc59-a45733be492c"
+  },
+  {
+    "click": {
+      "optIn": "a#CybotCookiebotDialogBodyButtonAccept",
+      "presence": "div#CybotCookiebotDialog"
+    },
+    "domain": "cpanel.net",
+    "cookies": {},
+    "id": "0d4c97d6-5f33-4886-a220-ce6195bccdad"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "udemy.com",
+    "cookies": {},
+    "id": "81e369a0-f9c2-4e9e-b948-b1367be5d0db"
+  },
+  {
+    "click": {
+      "optIn": "button#L2AGLb",
+      "optOut": "button#W0wltc",
+      "presence": "div.spoKVd"
+    },
+    "domain": "google.co.jp",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "CONSENT",
+          "value": "PENDING"
+        }
+      ],
+      "optOut": [
+        {
+          "name": "SOCS",
+          "value": "CAESHAgBEhJnd3NfMjAyMjExMTUtMF9SQzEaAnJvIAEaBgiA89WbBg"
+        }
+      ]
+    },
+    "id": "f0f7561b-4dd7-4509-ae0b-a527db4181b7"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "ted.com",
+    "cookies": {},
+    "id": "d05a4eed-f446-4996-9617-f9619285a1cb"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "tripadvisor.com",
+    "cookies": {},
+    "id": "37b8b711-aa72-440a-b907-03ac5725eb10"
+  },
+  {
+    "click": {
+      "optIn": "button.welcome__button--accept",
+      "optOut": "button.welcome__button--decline",
+      "presence": "div.welcome__cookie-notice"
+    },
+    "domain": "wetransfer.com",
+    "cookies": {},
+    "id": "8b43c95f-2617-4541-a88d-ebae3b819bee"
+  },
+  {
+    "click": {
+      "optIn": "button.osano-cm-accept-all",
+      "presence": "div.osano-cm-window"
+    },
+    "domain": "scribd.com",
+    "cookies": {},
+    "id": "f6f48ce2-0487-4003-b1c7-dfcd37def8d7"
+  },
+  {
+    "click": {
+      "optIn": "button.css-quk35p",
+      "presence": "div.css-103nllw"
+    },
+    "domain": "healthline.com",
+    "cookies": {},
+    "id": "b62e5259-f7f5-4319-8175-e39266b8a031"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "mailchimp.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "_tt_enable_cookie",
+          "value": "1"
+        }
+      ],
+      "optOut": []
+    },
+    "id": "341da955-59eb-410f-b39f-3a8406280d65"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "wired.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "_tt_enable_cookie",
+          "value": "1"
+        }
+      ]
+    },
+    "id": "213e6262-e58d-45d5-b5a3-5e56942e5fca"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "webmd.com",
+    "cookies": {},
+    "id": "e327c4df-fdee-4d4d-8845-2fffd4fb3fd8"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "statista.com",
+    "cookies": {},
+    "id": "f1444b6d-7e24-4816-9e11-324f5c7d4f95"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "pixabay.com",
+    "cookies": {},
+    "id": "56ec39cc-bb8d-4b86-bdb2-cd3c8a8953c8"
+  },
+  {
+    "click": {
+      "optIn": "button#truste-consent-button",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "squarespace.com",
+    "cookies": {
+      "optIn": [
+        {
+          "name": "_tt_enable_cookie",
+          "value": "1"
+        }
+      ],
+      "optOut": [
+        {
+          "name": "notice_gdpr_prefs",
+          "value": "0:"
+        }
+      ]
+    },
+    "id": "b17a2376-ae8b-40de-9b6f-61efdf25f862"
+  },
+  {
+    "click": {
+      "optIn": "button#onetrust-accept-btn-handler",
+      "optOut": "button#onetrust-reject-all-handler",
+      "presence": "div#onetrust-consent-sdk"
+    },
+    "domain": "shutterstock.com",
+    "cookies": {},
+    "id": "441aae5d-90e0-422e-a71a-016234e58a5b"
+  },
+  {
+    "click": {
+      "optIn": "a.o-cookie-message__button",
+      "presence": "div.o-cookie-message--active"
+    },
+    "domain": "ft.com",
+    "cookies": {},
+    "id": "b485c89f-130e-4d5a-94f8-99eacad96e5f"
+  },
+  {
+    "click": {
+      "optIn": "a.close",
+      "presence": "div.ReadPolicy"
+    },
+    "domain": "huawei.com",
+    "cookies": {},
+    "id": "645dca4f-49b6-456e-8aa1-40dfdb35acb7"
+  },
+  {
+    "click": {
+      "optIn": "button#_evidon-accept-button",
+      "optOut": "button#_evidon-decline-button",
+      "presence": "div#_evidon_banner"
+    },
+    "domain": "pubmatic.com",
+    "cookies": {},
+    "id": "35142692-9d67-4f16-9512-36673e35c43d"
+  },
+  {
+    "click": {
+      "optIn": "button.CookieBanner_button__P6xCl",
+      "presence": "section.CookieBanner_notificationBar__nn49h"
+    },
+    "domain": "kaspersky.com",
+    "cookies": {},
+    "id": "1e504f8f-4377-4de7-90e4-cbbfaa30f54d"
+  },
